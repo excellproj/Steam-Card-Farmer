@@ -4,13 +4,6 @@
 
 Designed for advanced users.
 
-# Installation
-
-- Install [Node.js](https://nodejs.org) (v0.12.0 or later) or [io.js](https://iojs.org)
-- Run `sudo npm install -g steam-card-farmer` (Linux) or `npm install -g steam-card-farmer` from an [elevated command prompt](http://pcsupport.about.com/od/commandlinereference/f/elevated-command-prompt.htm) (Windows).
-
-# Usage
-
 On the command line, just type `steamcardfarmer`. Optionally include your username and password as arguments, as such: `steamcardfarmer steamusername steampassword`.
 
 If not provided on the command line, it'll prompt you for your Steam username and password. Just because it invariably ends up with someone asking about it, **when you enter your password, no characters will show up**. Don't worry, you're typing.
